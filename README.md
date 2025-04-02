@@ -1,8 +1,6 @@
 # Alice-in-Wonderland-Chatbot
 Alice Chatbot
 
-# Alice in Wonderland Chatbot
-
 ## Overview
 The **Alice in Wonderland Chatbot** is an AI-powered chatbot designed to engage users in interactive conversations inspired by Lewis Carroll's *Alice’s Adventures in Wonderland*. The chatbot leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** to provide intelligent, context-aware responses. This project includes the development, training, and deployment of the chatbot for real-world interaction.
 
@@ -47,7 +45,7 @@ The chatbot was trained using:
 
 ## Deployment
 The chatbot has been deployed online for easy interaction. You can chat with Alice in Wonderland here:  
-🔗 **Live Demo:** [Alice Chatbot](http://yourdeploymentlink.com)
+🔗 **Live Demo:** [Alice Chatbot](http://localhost:8501/)
 
 ## Future Improvements
 - **Enhance NLP Capabilities**: Improve intent recognition and response accuracy.
@@ -60,8 +58,8 @@ The **Alice in Wonderland Chatbot** is a creative application of AI and NLP, bri
 
 ## Contact
 For inquiries or collaborations, reach out:
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Interact with the Chatbot Here**: [Alice in Wonderland Chatbot](http://yourdeploymentlink.com)
+- **GitHub**: [Your GitHub Profile](https://github.com/ChristabelJohnny)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
+- **Interact with the Chatbot Here**: [Alice in Wonderland Chatbot](http://localhost:8501/.com)
 
 
