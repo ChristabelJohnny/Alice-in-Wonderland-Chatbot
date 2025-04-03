@@ -45,7 +45,7 @@ The chatbot was trained using:
 
 ## Deployment
 The chatbot has been deployed online for easy interaction. You can chat with Alice in Wonderland here:  
-🔗 **Live Demo:** [Alice Chatbot](http://localhost:8501/)
+**Live Demo:** [Alice Chatbot](http://localhost:8501/)
 
 ## Future Improvements
 - **Enhance NLP Capabilities**: Improve intent recognition and response accuracy.
@@ -58,8 +58,8 @@ The **Alice in Wonderland Chatbot** is a creative application of AI and NLP, bri
 
 ## Contact
 For inquiries or collaborations, reach out:
-- **GitHub**: [Your GitHub Profile](https://github.com/ChristabelJohnny)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
+- **GitHub**: [GitHub Profile](https://github.com/ChristabelJohnny)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/christabeljohnny)
 - **Interact with the Chatbot Here**: [Alice in Wonderland Chatbot](http://localhost:8501/.com)
 
 
